@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prasadanand412
 - 👀 I’m interested in Coding, Music and Gaming.
-- 🌱 I’m currently learning Python, C and HTML.
+- 🌱 I’m currently learning C++, JavaScript and React.js.
+- 🌳 I have learnt Python, C, HTML and CSS.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me; You can email me on prasad.anand412@gmail.com .
 - 😄 Pronouns: He/Him
