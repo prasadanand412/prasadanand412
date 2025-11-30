@@ -14,7 +14,6 @@
 - 🇮🇳 Based in Pune, India  
 - 🧠 Currently learning **C++**, **JavaScript**, and **React.js**  
 - 🤖 Exploring **AI/ML**, especially **medical-imaging** analysis  
-- 🪪 Trying to build an **AI dental X-ray tool** with caries detection  
 - 🎮 I enjoy music, gaming, and exploring cool tech ideas  
 - 🧑‍💻 Pronouns: **He/Him**
 
