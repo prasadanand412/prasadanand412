@@ -1,92 +1,90 @@
-<!-- Banner / Intro -->
-<h1 align="center">👋 Hi, I'm <strong>Prasad Anand</strong></h1>
-<h3 align="center">AI + Web Developer | Python/C++ Learner | Tech Explorer</h3>
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadanand412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/prasadanand412?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/prasadanand412?label=Stars&style=flat" alt="stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Prasad+Anand;AI+%2B+Web+Developer;C%2B%2B+Learner;Tech+Explorer+%F0%9F%9A%80" />
 </p>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-6C63FF?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=prasadanand412&style=flat-square&color=6C63FF" />
+</div>
+
 ---
 
-## 🚀 About Me  
-- 🇮🇳 Based in Pune, India  
-- 🧠 Currently learning **C++**, **JavaScript**, and **React.js**  
-- 🤖 Exploring **AI/ML**, especially **medical-imaging** analysis  
-- 🎮 I enjoy music, gaming, and exploring cool tech ideas  
-- 🧑‍💻 Pronouns: **He/Him**
+## 🌿 About Me  
+I'm **Prasad**, a developer exploring the intersection of **AI + the Web**.  
+I love building clean, functional tools — especially ones involving **medical imaging**,  
+AI experiments, and modern web technologies.
+
+I enjoy:  
+- Learning **C++**, **JavaScript**, **React.js**  
+- Experimenting with **AI/ML**, esp. dental X-ray analysis  
+- Creating simple, aesthetic UI layouts  
+- Gaming, music, and deep-focus coding  
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech I Use  
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-F0642A?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-254BDD?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-6C63FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-6C63FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
-### 🔹 **[HTMLcode](https://github.com/prasadanand412/HTMLcode)**  
-Simple HTML practice and layout concepts.
+## 📌 Featured Work  
+Here’s what I’m currently working on:
 
-### 🔹 **[wellness](https://github.com/prasadanand412/wellness)**  
-CSS-focused wellness UI project.
+### ➤ **[HTMLcode](https://github.com/prasadanand412/HTMLcode)**  
+Practicing HTML structures & layouts.
 
-### 🔹 **[pluswellness](https://github.com/prasadanand412/pluswellness)**  
-A TypeScript + web-structure project.
+### ➤ **[wellness](https://github.com/prasadanand412/wellness)**  
+A clean CSS project for wellness UI.
 
-### 🔹 **[demonstration](https://github.com/prasadanand412/demonstration)**  
-TypeScript playground / mini demo project.
+### ➤ **[pluswellness](https://github.com/prasadanand412/pluswellness)**  
+A TypeScript + minimal UI experiment.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Minimal Theme)  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prasadanand412&show_icons=true&theme=react&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadanand412&layout=compact&theme=react" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=prasadanand412&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadanand412&layout=compact&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak  
+## 📈 Contribution Activity  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadanand412&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadanand412&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadanand412&theme=react-dark" />
-</p>
-
----
-
-## 📫 Connect With Me  
+## 📬 Connect With Me  
 <p>
   <a href="mailto:prasad.anand412@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prasad-anand-b59218333">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/aprxsad._">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Fun Fact  
-> I code better with music—especially late-night beats 🎧🌙
+## 🌱 Small Quote  
+> “Clean code. Clear mind.”  
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">⭐ If you like my profile, consider starring my repositories!</p>
